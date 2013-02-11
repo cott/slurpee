@@ -1,0 +1,9 @@
+twitter:
+  consumer_key: j63v5uwpLUBJ4NtJ5gRLMQ
+  consumer_secret: PHsytbU761qICYqesT0rU8Ng2HD9eODqBUWd3mpefvk
+
+  # default request params
+  count: 200
+  contributor_details: true
+  include_rts: true
+  trim_user: false
